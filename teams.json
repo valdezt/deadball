@@ -1,0 +1,34 @@
+{
+  "team_1": {
+    "order": "default_order.csv",
+    "optimization": "active_first"
+  },
+  "team_2": {
+    "order": "default_order.csv",
+    "optimization": "active_first"
+  },
+  "team_3": {
+    "order": "default_order.csv",
+    "optimization": "active_first"
+  },
+  "team_4": {
+    "order": "default_order.csv",
+    "optimization": "active_first"
+  },
+  "team_5": {
+    "order": "default_order.csv",
+    "optimization": "best_first"
+  },
+  "team_6": {
+    "order": "default_order.csv",
+    "optimization": "best_first"
+  },
+  "team_7": {
+    "order": "default_order.csv",
+    "optimization": "best_first"
+  },
+  "team_8": {
+    "order": "default_order.csv",
+    "optimization": "best_first"
+  }
+}
